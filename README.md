@@ -1,4 +1,4 @@
-# 👋 Hi, I'm H.E Udom
+# 👋 Hi, I'm SAMRIT UDDAM
 
 🚀 Full-Stack Developer | 🧠 AI & Face Recognition Enthusiast | 💻 Software Engineer
 
@@ -6,8 +6,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Face Recognition Smart Attendance System (F-DOMIT)**
-- 🌱 Learning **Machine Learning, Computer Vision & Security**
 - 💼 5+ years experience in **Web, Mobile & Backend Development**
 - 🎯 Goal: Build scalable products & global-level systems
 - 🌍 Language: Khmer 🇰🇭 | English 🇺🇸
