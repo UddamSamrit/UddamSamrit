@@ -1,12 +1,13 @@
 # 👋 Hi, I'm SAMRIT UDDAM
 
-🚀 Full-Stack Developer | 🧠 AI & Face Recognition Enthusiast | 💻 Software Engineer
+🚀 Full-Stack Developer | Software Engineer | CTO
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 5+ years experience in **Web, Mobile & Backend Development**
+- 💼 5+ years experience in **Web, Mobile & Backend Development, Cloud and Infrastructure**
+- 👔 **CTO** - Leading technology strategy and engineering teams
 - 🎯 Goal: Build scalable products & global-level systems
 - 🌍 Language: Khmer 🇰🇭 | English 🇺🇸
 
@@ -21,8 +22,11 @@
 
 ### Backend
 - 🟢 Node.js, Express, NestJS
-- 🐘 PHP, Laravel
+- 🐘 PHP, Laravel, CodeIgniter
 - 🐹 Go (Gin / Fiber)
+- ☕ Java, Spring Boot
+- 🟣 .NET
+- 🐍 Python, Django
 
 ### Mobile
 - 🦋 Flutter
@@ -34,9 +38,11 @@
 - 📷 OpenCV
 
 ### Database & DevOps
-- 🐘 PostgreSQL, MySQL
-- 🐳 Docker, Git, GitHub
+- 🐘 PostgreSQL, MySQL, SQL Server, Redis
+- 🐰 RabbitMQ
+- 🐳 Docker, Kubernetes, Git, GitHub
 - 🔌 REST API, WebSocket
+- ☁️ AWS, GCP, Digital Ocean, Microsoft Azure
 
 ---
 
@@ -56,17 +62,28 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
