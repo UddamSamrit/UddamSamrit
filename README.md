@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SAMRIT UDDAM
 
-🚀 Full-Stack Developer | Software Engineer
+🚀 Full-Stack Developer | 🧠 AI & Face Recognition Enthusiast | 💻 Software Engineer
 
 ---
 
