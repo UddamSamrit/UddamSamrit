@@ -75,6 +75,13 @@ Today I am **Chief Technology Officer of SOCHEATA AI**, where I lead technology 
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
+**Project Management**
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Plane-3F76FF?style=for-the-badge&logo=plane&logoColor=white" alt="Plane" />
+</p>
+
 <details>
 <summary><b>Full skills list</b></summary>
 <br />
@@ -90,7 +97,8 @@ Today I am **Chief Technology Officer of SOCHEATA AI**, where I lead technology 
 | **Cloud and DevOps** | AWS, Google Cloud, DigitalOcean, Microsoft Azure, Docker, Kubernetes, Argo CD, Linux, Windows Server, GitHub |
 | **AI and data** | Python, YOLOv5, YOLOv8, FaceNet, DeepFace, OpenCV, Scrapy |
 | **IDE and AI** | Cursor, Claude |
-| **Tools** | Jira, Postman, Figma, Adobe XD, Photoshop |
+| **Project management** | Jira, Plane |
+| **Tools** | Postman, Figma, Adobe XD, Photoshop |
 
 </details>
 
