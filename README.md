@@ -65,10 +65,14 @@ Today I am **Chief Technology Officer of SOCHEATA AI**, where I lead technology 
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github" alt="Cloud and DevOps" />
 </p>
 
-**Tools**
+**IDE, AI and Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,postman" alt="Tools" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 <details>
@@ -85,7 +89,8 @@ Today I am **Chief Technology Officer of SOCHEATA AI**, where I lead technology 
 | **Architecture** | Microservices, event-driven (RabbitMQ), REST APIs, WebSocket, MVC, OOP |
 | **Cloud and DevOps** | AWS, Google Cloud, DigitalOcean, Microsoft Azure, Docker, Kubernetes, Argo CD, Linux, Windows Server, GitHub |
 | **AI and data** | Python, YOLOv5, YOLOv8, FaceNet, DeepFace, OpenCV, Scrapy |
-| **Tools** | Jira, Postman, Figma, Adobe XD, Photoshop, Cursor |
+| **IDE and AI** | Cursor, Claude |
+| **Tools** | Jira, Postman, Figma, Adobe XD, Photoshop |
 
 </details>
 
