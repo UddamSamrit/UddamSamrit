@@ -1,97 +1,222 @@
-# 👋 Hi, I'm SAMRIT UDDAM
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E3D,100:1E4FA3&height=200&section=header&text=Samrit%20Uddam&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=CTO%20at%20SOCHEATA%20AI%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="Samrit Uddam" width="100%" />
+</p>
 
-🚀 Full-Stack Developer | Software Engineer | CTO
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=1E4FA3&center=true&vCenter=true&width=640&lines=Chief+Technology+Officer+at+SOCHEATA+AI;Building+web+and+mobile+products+since+2018;Microservices+%7C+Payments+%7C+Mobile+Apps+%7C+Cloud" alt="Typing summary" />
+</p>
 
----
+<p align="center">
+  <a href="https://samrituddam.com"><img src="https://img.shields.io/badge/Website-samrituddam.com-1E4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/uddam-samrit-929979221"><img src="https://img.shields.io/badge/LinkedIn-Samrit%20Uddam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samrituddam20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 👨‍💻 About Me
-
-- 💼 5+ years experience in **Web, Mobile & Backend Development, Cloud and Infrastructure**
-- 👔 **CTO** - Leading technology strategy and engineering teams
-- 🎯 Goal: Build scalable products & global-level systems
-- 🌍 Language: Khmer 🇰🇭 | English 🇺🇸
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- 🌐 HTML, CSS, JavaScript
-- ⚛️ Vue.js, React.js, Nuxt 3
-- 🎨 TailwindCSS, Bootstrap
-
-### Backend
-- 🟢 Node.js, Express, NestJS
-- 🐘 PHP, Laravel, CodeIgniter
-- 🐹 Go (Gin / Fiber)
-- ☕ Java, Spring Boot
-- 🟣 .NET
-- 🐍 Python, Django
-
-### Mobile
-- 🦋 Flutter
-
-### AI / Computer Vision
-- 🐍 Python
-- 🤖 YOLOv5 / YOLOv8
-- 👁️ FaceNet, DeepFace
-- 📷 OpenCV
-
-### Database & DevOps
-- 🐘 PostgreSQL, MySQL, SQL Server, Redis
-- 🐰 RabbitMQ
-- 🐳 Docker, Kubernetes, Git, GitHub
-- 🔌 REST API, WebSocket
-- ☁️ AWS, GCP, Digital Ocean, Microsoft Azure
+<p align="center">Phnom Penh, Cambodia</p>
 
 ---
 
-## 💻 Languages and Tools:
+## About Me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+I turn business requirements into working systems, from database design to deployment. My work covers microservices, payment and provider integrations, large-scale data scraping, and mobile apps published on the App Store and Google Play. I have worked with Thai, Korean and Japanese teams, and I have trained and led developers on programming and system workflow.
+
+Today I am **Chief Technology Officer of SOCHEATA AI**, where I lead technology strategy and the engineering team.
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><h2>8+ years</h2>building web and mobile products</td>
+    <td align="center" width="200"><h2>3 countries</h2>Thai, Korean and Japanese teams</td>
+    <td align="center" width="200"><h2>2,000</h2>Japanese websites scraped and automated</td>
+    <td align="center" width="200"><h2>20+ projects</h2>web and mobile, on App Store and Google Play</td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contact Me
+## Tech Stack
 
-- GitHub: https://github.com/UddamSamrit
-- Email: samrituddam20@gmail.com
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nextjs,tailwind,bootstrap,jquery" alt="Frontend" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,spring,cs,dotnet,py,django,go" alt="Backend" />
+</p>
+
+**Mobile and AI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,py,opencv" alt="Mobile and AI" />
+</p>
+
+**Databases and Messaging**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,rabbitmq" alt="Databases and Messaging" />
+</p>
+
+**Cloud and DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github" alt="Cloud and DevOps" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman" alt="Tools" />
+</p>
+
+<details>
+<summary><b>Full skills list</b></summary>
+<br />
+
+| Area | Technologies |
+| --- | --- |
+| **Backend** | NestJS, Node.js, Express, Laravel, CodeIgniter, Spring Boot, ASP.NET, C#, Python, Django, PHP, Go |
+| **Frontend** | Vue.js, Nuxt.js, React, Next.js, JavaScript, TypeScript, Tailwind, Bootstrap, jQuery, HTML, CSS |
+| **Mobile** | Flutter, Firebase (Authentication, Firestore, Messaging, Functions), App Store and Google Play publishing |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Firestore, Redis, Elasticsearch |
+| **Database design** | Schema design, indexes, partitions, stored procedures, triggers, ORM |
+| **Architecture** | Microservices, event-driven (RabbitMQ), REST APIs, WebSocket, MVC, OOP |
+| **Cloud and DevOps** | AWS, Google Cloud, DigitalOcean, Microsoft Azure, Docker, Kubernetes, Argo CD, Linux, Windows Server, GitHub |
+| **AI and data** | Python, YOLOv5, YOLOv8, FaceNet, DeepFace, OpenCV, Scrapy |
+| **Tools** | Jira, Postman, Figma, Adobe XD, Photoshop, Cursor |
+
+</details>
 
 ---
 
-⭐️ Feel free to explore my repositories and give a star if you like my work!
+## Experience
+
+### Chief Technology Officer
+**SOCHEATA AI**
+- Lead technology strategy, product architecture and the engineering team
+
+### Full-Stack Developer
+**Wintex Mega Plus** · Thai team in Cambodia · Dec 2024 – Present
+- Build microservices with NestJS and PostgreSQL, turning business flows into technical designs
+- Integrate third-party provider and payment APIs, and build the APIs that handle their callbacks
+- Developed an SMS gateway and multi-agent management
+- Use Redis for caching, RabbitMQ for event-driven flows and Elasticsearch on AWS, and deploy with Argo CD
+- Manage tasks and assign work to developers
+
+<details>
+<summary><b>Previous experience (2018 – 2024)</b></summary>
+
+### Full-Stack Developer
+**Gaming Online** · Korean team in Cambodia · Jun 2024 – Dec 2024
+- Turned business flows into technical designs with ASP.NET, Spring and SQL Server
+- Integrated third-party APIs and their callbacks, and built user reports
+- Set up Windows Server (IIS) on AWS for hosting and data management
+
+### Full-Stack Developer
+**Digital Future Lab** · Japanese company in Cambodia · Sep 2021 – Jun 2024
+- Scraped data from 2,000 websites in Japan with Python and Scrapy, and automated the process for big data
+- Built a Laravel application on the scraped data, and a Laravel Livewire project with multi-vendor reporting for an insurance company
+- Developed React and Next.js projects with Tailwind
+- Trained and led the team; set up GitHub, Docker and Telegram bot alerts; hosted servers on AWS EC2
+
+### App Developer
+**KRAVANH ECO** · Cambodia · 2020 – Sep 2021
+- Designed the core system on Google Cloud for Tamneak, a social platform in Cambodia, and built its chat system
+- Developed Flutter apps with Firebase and published them to the App Store and Google Play
+- Trained the team on code patterns, Google Cloud services and integration
+
+### Web Developer
+**KRAVANH ECO** · Cambodia · 2018 – 2020
+- Designed databases and backends, and built websites with Laravel, CodeIgniter, Vue.js and jQuery
+- Built APIs for mobile apps with Laravel, Node.js and Express
+
+### Web Designer (Internship)
+**Ampill Technology** · Cambodia · 2018
+- Designed an e-commerce website with HTML, CSS, JavaScript and PHP
+
+</details>
+
+---
+
+## Selected Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Tamneak</b><br />
+      <sub>Social platform for Cambodia with a chat system, built with Flutter and Google Cloud.</sub><br />
+      <sub>Mobile app</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Board of Engineers Cambodia</b><br />
+      <sub>Website for the national engineering board.</sub><br />
+      <a href="https://bec.gov.kh"><sub>bec.gov.kh</sub></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Cam Agrimarket</b><br />
+      <sub>Online market for agricultural products.</sub><br />
+      <a href="https://camagrimarket.org"><sub>camagrimarket.org</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>TK Custom Computer</b><br />
+      <sub>Online store for gaming hardware and computer components.</sub><br />
+      <a href="https://tkcustomcomputer.com"><sub>tkcustomcomputer.com</sub></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Sokly Phone Shop</b><br />
+      <sub>Website and mobile app for a phone shop.</sub><br />
+      <a href="https://soklyphone.com"><sub>soklyphone.com</sub></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Cambodia Property</b><br />
+      <sub>Website for property reports in Cambodia.</sub><br />
+      <a href="https://cambodiapropertyreport.com"><sub>cambodiapropertyreport.com</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Data Management</b><br />
+      <sub>Web application for Digital Future Lab data.</sub><br />
+      <a href="https://digitalfuturelab.jp"><sub>digitalfuturelab.jp</sub></a>
+    </td>
+    <td width="33%" valign="top">
+      <b>Kouk Pring</b><br />
+      <sub>App for entering member data, built with Flutter.</sub><br />
+      <sub>Google Play</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Khmer Buddhism</b><br />
+      <sub>Website about Khmer Buddhism, hosted on Google Cloud Run.</sub><br />
+      <sub>Live site</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Also: 8 Life, Kampong Somnanh, Inspire Program, Choronai, Khemra, CLL, Eng Sophalleth</sub>
+
+---
+
+## Education and Languages
+
+- **Bachelor's Degree in Information Technology**, Chenla University, Cambodia (2016 – 2023)
+- **Languages:** Khmer (native), English (intermediate)
+- **Strengths:** problem solving, team training, task management, fast learning, working under pressure
+
+---
+
+## Get in Touch
+
+I am open to collaboration, technical consulting, and conversations about building great products.
+
+- **Website:** [samrituddam.com](https://samrituddam.com)
+- **LinkedIn:** [linkedin.com/in/uddam-samrit-929979221](https://www.linkedin.com/in/uddam-samrit-929979221)
+- **GitHub:** [github.com/UddamSamrit](https://github.com/UddamSamrit)
+- **Email:** [samrituddam20@gmail.com](mailto:samrituddam20@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E4FA3,100:0F1E3D&height=100&section=footer" alt="" width="100%" />
+</p>
