@@ -134,16 +134,13 @@ Today I am **Chief Technology Officer of SOCHEATA AI**, where I lead technology 
 - Developed React and Next.js projects with Tailwind
 - Trained and led the team; set up GitHub, Docker and Telegram bot alerts; hosted servers on AWS EC2
 
-### App Developer
-**KRAVANH ECO** · Cambodia · 2020 – Sep 2021
+### Web and App Developer
+**KRAVANH ECO** · Cambodia · 2018 – Sep 2021
 - Designed the core system on Google Cloud for Tamneak, a social platform in Cambodia, and built its chat system
 - Developed Flutter apps with Firebase and published them to the App Store and Google Play
-- Trained the team on code patterns, Google Cloud services and integration
-
-### Web Developer
-**KRAVANH ECO** · Cambodia · 2018 – 2020
 - Designed databases and backends, and built websites with Laravel, CodeIgniter, Vue.js and jQuery
 - Built APIs for mobile apps with Laravel, Node.js and Express
+- Trained the team on code patterns, Google Cloud services and integration
 
 ### Web Designer (Internship)
 **Ampill Technology** · Cambodia · 2018
